@@ -24,6 +24,45 @@
 
 
     margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.newarrivals{
+
+    margin-top: 50px;
+}
+
+.card{
+
+    width: 250px;
+    height: auto;
+    margin-bottom: 5px;
+}
+
+.card-text{
+
+    font-weight: bold;
+}
+
+.btn-primary{
+
+    width: 100%;
+    background-color:#3700b3 ;
 }
 
 
+.heading{
+
+    text-align: center;
+    font-weight: bold;
+    color: #3700b3;
+    margin: 20px;
+
+}
+
+.heading > h1{
+
+    text-shadow: 2px 2px 4px black;
+}
